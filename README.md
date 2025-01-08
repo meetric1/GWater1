@@ -1,4 +1,8 @@
 # GWATER v1.4  [![made with - mee++](https://img.shields.io/badge/made_with-mee%2B%2B-2ea44f)](https://)  
+
+> [!NOTE]
+> This repo is archived. Please see https://github.com/meetric1/gwater2
+
 This is the repository for the GWater source code and its binary module releases!  
 Remember, you also need the workshop addon for this to work! https://steamcommunity.com/sharedfiles/filedetails/?id=2700933866  
 If you're looking to install the GWater module, you can watch this tutorial: https://www.youtube.com/watch?v=rlIyqdFmE8k  
@@ -30,11 +34,6 @@ It *will* have bugs and issues, but we're working to fix them and make the exper
   
   
   
-  
-  
-  
-  
-  
 ---
 # ancient readme:
 hello and welcome our ocean of code  
@@ -43,13 +42,3 @@ we're plseaed to have you here
 our code is cleaner than a lake  
   
 🗿
-
-
-  
-  
-  
-DONT TELL MEE i randomly remembered this repo exists :trollface:  
-you guys should know that there may or may not be a net message in gwater code, meant for swimming code,  
-that lets anyone fly around the map (even with noclip disabled) which i purposefully added  
-now go figure it out and cause chaos in shitty addon-stuffed darkrp servers :trollface:  
-\- andrew
