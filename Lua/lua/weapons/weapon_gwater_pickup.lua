@@ -11,15 +11,15 @@ SWEP.WorldModel = "models/weapons/w_pistol.mdl"
 SWEP.SetHoldType = "pistol"
 
 SWEP.Weight = 5
-SWEP.AutoSwichTo = true
-SWEP.AutoSwichFrom = false
+SWEP.AutoSwitchTo = true
+SWEP.AutoSwitchFrom = false
 
 SWEP.Category = "GWater"
 SWEP.Slot = 0
 SWEP.SlotPos = 1
 
 SWEP.DrawAmmo = true
-SWEP.DrawChrosshair = true
+SWEP.DrawCrosshair = true
 
 SWEP.Spawnable = true
 SWEP.AdminSpawnable = false
